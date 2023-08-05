@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ayush Mendiratta
 - 👀 I’m interested in learning web development!
 - 🌱 I’m currently learning frontend web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ayushmendiratta2003@gmail.com or linkedin handle ➡ https://www.linkedin.com/in/ayush-mendiratta-437a26252
 
 <!---
